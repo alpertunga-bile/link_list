@@ -12,6 +12,9 @@ Gathering links about projects, books, articles, etc...
     - [Game Programming](#game-programming)
     - [Graphics Programming](#graphics-programming)
   - [Tutorials](#tutorials)
+    - [DirectX 11](#directx-11)
+    - [DirectX 12](#directx-12)
+    - [OpenGL](#opengl)
     - [Shader](#shader)
     - [Vulkan](#vulkan)
   - [Sites](#sites)
@@ -37,10 +40,10 @@ Gathering links about projects, books, articles, etc...
 
 ### Game Engine
 - [Foundations of Game Engine Development](https://foundationsofgameenginedev.com/)
+- [3D Game Engine Design](https://www.amazon.com/Game-Engine-Design-Second-Interactive/dp/0122290631)
 
 ### Game Programming
 - [Game Programming Gems](https://www.satori.org/game-programming-gems/)
-- [3D Game Engine Design](https://www.amazon.com/Game-Engine-Design-Second-Interactive/dp/0122290631)
 
 ### Graphics Programming
 - [3D Graphics Cookbook](https://www.amazon.com/Graphics-Rendering-Cookbook-comprehensive-algorithms/dp/1838986197/ref=sr_1_1)
@@ -54,6 +57,18 @@ Gathering links about projects, books, articles, etc...
 
 
 ## Tutorials
+
+### DirectX 11
+- [Rastertek](https://rastertek.com/tutdx11.html)
+- [3Dgep](https://www.3dgep.com/introduction-to-directx-11/)
+
+### DirectX 12
+- [3Dgep](https://www.3dgep.com/learning-directx-12-1/)
+- [Braynzar Soft](https://www.braynzarsoft.net/viewtutorial/q16390-04-directx-12-braynzar-soft-tutorials)
+
+### OpenGL
+- [Learn OpenGL](https://learnopengl.com/)
+- [OGLDev](https://ogldev.org/)
 
 ### Shader
 - [3D Game Shaders for Beginners](https://lettier.github.io/3d-game-shaders-for-beginners/)
@@ -77,6 +92,7 @@ Gathering links about projects, books, articles, etc...
 - [Self Shadow](https://blog.selfshadow.com/publications/)
 - [ACM Digital Library](https://dl.acm.org/)
 - [GPU Pro Blog](https://gpupro.blogspot.com/)
+- [Alain](https://alain.xyz/)
 
 ## Youtube
 
