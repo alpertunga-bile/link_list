@@ -5,6 +5,11 @@ Gathering links about projects, books, articles, etc.
 - [link\_list](#link_list)
   - [Table Of Contents](#table-of-contents)
   - [Articles](#articles)
+    - [Global Illumination](#global-illumination)
+    - [Hair Rendering](#hair-rendering)
+    - [Physical Based Shading](#physical-based-shading)
+    - [Shading](#shading)
+    - [Subsurface Scattering](#subsurface-scattering)
   - [Books](#books)
     - [Game AI](#game-ai)
     - [Algorithms](#algorithms)
@@ -38,6 +43,45 @@ Gathering links about projects, books, articles, etc.
     - [Vulkan](#vulkan-1)
 
 ## Articles
+
+### Global Illumination
+- [Implicit Visibility and Antiradiance for Interactive Global Illumination](https://dl.acm.org/doi/10.1145/1275808.1276453)
+- [Instant Global Illumination on the GPU using OptiX](https://www.academia.edu/2805505)
+- [Practical dynamic lighting for large-scale game environments](https://dl.acm.org/doi/10.1145/3306307.3328189)
+- [Point-Based Global Illumination for Movie Production](https://graphics.pixar.com/library/PointBasedGlobalIlluminationForMovieProduction/paper.pdf)
+- [Real-Time Diffuse Global Illumination based on Voxelization](https://www.researchgate.net/publication/258845112_Real-Time_Diffuse_Global_Illumination_based_on_Voxelization)
+
+### Hair Rendering
+- [THE IMPLEMENTATION OF A HAIR SCATTERING MODEL](https://www.pbrt.org/hair.pdf)
+- [Advanced Techniques in Real-time Hair Rendering and Simulation Siggraph 2010](https://dl.acm.org/doi/10.1145/1837101.1837102)
+- [Physically Based Hair Shading in Unreal](https://blog.selfshadow.com/publications/s2016-shading-course/karis/s2016_pbs_epic_hair.pdf)
+- [Let’s Get Physical: The Hairy History of Shading at MPC](https://blog.selfshadow.com/publications/s2020-shading-course/mpc/s2020_pbs_mpc_slides.pdf)
+- [Physically Based Shading at Disney](https://blog.selfshadow.com/publications/s2012-shading-course/burley/s2012_pbs_disney_brdf_notes_v3.pdf)
+- [Physical Production Shaders with OSL](https://blog.selfshadow.com/publications/s2012-shading-course/martinez/s2012_pbs_osl_notes_v3.pdfPhysical)
+- [Physically Based Shader Design in Arnold](https://blog.selfshadow.com/publications/s2014-shading-course/langlands/s2014_pbs_alshaders_notes.pdf)
+
+### Physical Based Shading
+- [Physically Based Shading in Theory and Practice Siggraph 2020](https://dl.acm.org/doi/10.1145/3388769.3407523)
+- [Beyond a Simple Physically Based Blinn-Phong Model in Real-Time](https://blog.selfshadow.com/publications/s2012-shading-course/gotanda/s2012_pbs_beyond_blinn_notes_v3.pdf)
+- [Physically Based Shading at DreamWorks Animation](https://blog.selfshadow.com/publications/s2017-shading-course/dreamworks/s2017_pbs_dreamworks_notes.pdf)
+- [Reflection Model Design for WALL-E and Up](https://blog.selfshadow.com/publications/s2012-shading-course/smits/s2012_pbs_pixar_model_slides_v2.pdf)
+
+### Shading
+- [The Rendering Equation](https://dl.acm.org/doi/10.1145/15922.15902)
+- [Rendering Equation Revisited: how to avoid Explicit Visibility Computations](https://dl.acm.org/doi/10.5555/314500.314898)
+- [A TWO-PASS SOLUTION TO THE RENDERING EQUATION: A SYNTHESIS OF RAY TRACING AND RADIOSITY METHODS](https://dl.acm.org/doi/10.1145/37401.37438)
+- [Background: Physics and Math of Shading](https://blog.selfshadow.com/publications/s2012-shading-course/hoffman/s2012_pbs_physics_math_notes.pdf)
+- [Samurai Shading in Ghost of Tsushima](https://blog.selfshadow.com/publications/s2020-shading-course/patry/s2020_pbs_patry_slides.pdf)
+- [Pixar’s Foundation for Materials: PxrSurface and PxrMarschnerHair](https://blog.selfshadow.com/publications/s2017-shading-course/pixar/s2017_pbs_pixar_notes.pdf)
+
+### Subsurface Scattering 
+- [Pre-Integrated Deferred Subsurface Scattering](https://dl.acm.org/doi/10.1145/2614217.2614248)
+- [Directional Dipole Model for Subsurface Scattering](https://dl.acm.org/doi/10.1145/2682629)
+- [Interactive Subsurface Scattering for Translucent Meshes](https://dl.acm.org/doi/10.1145/641480.641497)
+- [The Role of Subsurface Scattering in Glossiness Perception](https://dl.acm.org/doi/10.1145/3458438)
+- [Extending the Disney BRDF to a BSDF with Integrated Subsurface Scattering](https://blog.selfshadow.com/publications/s2015-shading-course/burley/s2015_pbs_disney_bsdf_notes.pdf)
+- [Volumetric Skin and Fabric Shading at Framestore](https://blog.selfshadow.com/publications/s2017-shading-course/walster/s2017_pbs_volumetric_notes.pdf)
+
 
 ## Books
 
