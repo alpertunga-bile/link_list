@@ -77,7 +77,7 @@ Gathering links about projects, books, articles, etc.
 - [Physically Based Shading at DreamWorks Animation](https://blog.selfshadow.com/publications/s2017-shading-course/dreamworks/s2017_pbs_dreamworks_notes.pdf)
 - [Reflection Model Design for WALL-E and Up](https://blog.selfshadow.com/publications/s2012-shading-course/smits/s2012_pbs_pixar_model_slides_v2.pdf)
 - [Physically Based Shading at Disney](https://blog.selfshadow.com/publications/s2012-shading-course/burley/s2012_pbs_disney_brdf_notes_v3.pdf)
-- [Physical Production Shaders with OSL](https://blog.selfshadow.com/publications/s2012-shading-course/martinez/s2012_pbs_osl_notes_v3.pdfPhysical)
+- [Physical Production Shaders with OSL](https://blog.selfshadow.com/publications/s2012-shading-course/martinez/s2012_pbs_osl_notes_v3.pdfPhysical.pdf)
 - [Physically Based Shader Design in Arnold](https://blog.selfshadow.com/publications/s2014-shading-course/langlands/s2014_pbs_alshaders_notes.pdf)
 
 ### Shading
