@@ -1,5 +1,5 @@
 # link_list
-Gathering links about projects, books, articles, etc...
+Gathering links about projects, books, articles, etc.
 
 ## Table Of Contents
 - [link\_list](#link_list)
@@ -131,6 +131,8 @@ Gathering links about projects, books, articles, etc...
 ### GPGPU
 - [GPU Computing Gems Jade Edition](https://www.amazon.com/dp/0123859638)
 - [GPU Computing Gems Emerald Edition](https://www.amazon.com/dp/0123849888)
+- [Programming Massively Parallel Processors](https://www.amazon.com/Programming-Massively-Parallel-Processors-Hands/dp/0323912311)
+- [CUDA by Example](https://www.amazon.com/CUDA-Example-Introduction-General-Purpose-Programming/dp/0131387685)
 
 ### Image Processing
 - [A Computational Introduction to Digital Image Processing](https://www.amazon.com/dp/0367783339)
