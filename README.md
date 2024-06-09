@@ -7,6 +7,7 @@ Gathering links about projects, books, articles, etc...
   - [Articles](#articles)
   - [Books](#books)
     - [Game AI](#game-ai)
+    - [Algorithms](#algorithms)
     - [Animation](#animation)
     - [Blender](#blender)
     - [Computer Graphics](#computer-graphics)
@@ -19,6 +20,7 @@ Gathering links about projects, books, articles, etc...
     - [Image Processing](#image-processing)
     - [Math](#math)
     - [Physics](#physics)
+    - [Phyton](#phyton)
     - [Ray Tracing](#ray-tracing)
     - [Rigging](#rigging)
     - [VFX](#vfx)
@@ -43,6 +45,11 @@ Gathering links about projects, books, articles, etc...
 - [AI for Games](https://www.amazon.com/dp/0367670569)
 - [Game AI Pro Books](https://www.gameaipro.com/)
 
+### Algorithms
+- [The Algorithm Design Manual](https://www.amazon.com/Algorithm-Design-Manual-Computer-Science/dp/3030542556)
+- [Advanced Algorithms and Data Structures](https://www.amazon.com/Advanced-Algorithms-Structures-Marcello-Rocca/dp/1617295485)
+- [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-Second-Aditya-Bhargava/dp/1633438538)
+
 ### Animation
 - [Hands-On C++ Game Animation Programming](https://www.amazon.com/Game-Animation-Programming-techniques-implementation-dp-1803246529/dp/1803246529/ref=dp_ob_title_bk)
 - [Game Anim: Video Game Animation Explained](https://www.amazon.com/dp/0367707659/)
@@ -55,6 +62,7 @@ Gathering links about projects, books, articles, etc...
 - [Blender 3D Incredible Machines](https://www.amazon.com/dp/1785282018)
 - [Blender 3D Incredible Models](https://www.amazon.com/dp/1801817812)
 - [Python Scripting in Blender](https://www.amazon.com/dp/1803234229)
+- [Procedural 3D Modeling Using Geometry Nodes in Blender](https://www.amazon.com/Procedural-Modeling-Using-Geometry-Blender-ebook/dp/B0BJ7FLZ5S)
 
 ### Computer Graphics 
 - [Fundamentals of Computer Graphics](https://www.amazon.com/Fundamentals-Computer-Graphics-Steve-Marschner/dp/0367505037/ref=sr_1_4)
@@ -74,6 +82,8 @@ Gathering links about projects, books, articles, etc...
 - [Advanced Global Illumination](https://www.amazon.com/Advanced-Global-Illumination-Philip-Dutre-ebook/dp/B07JN81G8S)
 - [Computer Graphics: Principles and Practice](https://www.amazon.com/Computer-Graphics-Principles-Practice-3rd/dp/0321399528)
 - [High Dynamic Range Imaging](https://www.amazon.com/High-Dynamic-Range-Imaging-Acquisition/dp/012374914X)
+- [Real-Time Volume Graphics](https://www.amazon.com/Real-Time-Graphics-Klaus-Engel-ebook/dp/B00SC810ZG)
+- [Point-Based Graphics](https://www.amazon.com/Point-Based-Graphics-Morgan-Kaufmann-Computer-ebook/dp/B005HQMV4K)
 
 ### Compiler & Interpreter
 - [Crafting Interpreters](https://craftinginterpreters.com/)
@@ -85,11 +95,14 @@ Gathering links about projects, books, articles, etc...
 ### C++
 - [Professional C++](https://www.amazon.com/Professional-C-Marc-Gregoire-dp-1394193173/dp/1394193173)
 - [C++ High Performance](https://www.amazon.com/dp/1839216549)
+- [Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14](https://www.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996)
 
 ### Game Engine
 - [Foundations of Game Engine Development](https://foundationsofgameenginedev.com/)
 - [3D Game Engine Design](https://www.amazon.com/Game-Engine-Design-Second-Interactive/dp/0122290631)
 - [Game Engine Black Book: DOOM](https://www.amazon.com/Game-Engine-Black-Book-DOOM-dp-B0BMSP3GSS/dp/B0BMSP3GSS)
+- [Game Engine Architecture](https://www.amazon.com/Engine-Architecture-Third-Jason-Gregory/dp/1138035459)
+- [Game Engine Gems](https://www.gameenginegems.net/)
 
 ### Game Programming
 - [Game Programming Gems](https://www.satori.org/game-programming-gems/)
@@ -111,6 +124,9 @@ Gathering links about projects, books, articles, etc...
 - [Practical Parallel Rendering](https://www.amazon.com/Practical-Parallel-Rendering-Alan-Chalmers-ebook/dp/B00SC80Z3E)
 - [Practical Algorithms for 3D Computer Graphics](https://www.amazon.com/Practical-Algorithms-Computer-Graphics-Second-ebook/dp/B00OD414OK)
 - [Shaders for Game Programmers and Artists](https://www.amazon.com/Shaders-Programmers-Artists-Premier-Development/dp/1592000924)
+- [Introduction to 3D Game Programming with DirectX 12](https://www.amazon.com/Introduction-3D-Game-Programming-DirectX/dp/1942270062)
+- [OpenGL Programming Guide](https://www.amazon.com/OpenGL-Programming-Guide-Official-Learning/dp/0134495497)
+- [The Modern Vulkan Cookbook](https://www.amazon.com/Modern-Vulkan-Cookbook-practical-techniques/dp/1803239980)
 
 ### GPGPU
 - [GPU Computing Gems Jade Edition](https://www.amazon.com/dp/0123859638)
@@ -127,9 +143,16 @@ Gathering links about projects, books, articles, etc...
 - [Geometric Tools for Computer Graphics](https://www.amazon.com/dp/1558605940)
 - [Geometry for Programmers](https://www.amazon.com/dp/1633439607)
 - [Mathematics for Game Programming and Computer Graphics](https://www.amazon.com/dp/1801077339)
+- [Practical Geometry Algorithms: with C++ Code](https://www.amazon.com/Practical-Geometry-Algorithms-C-Code/dp/B094T8MVJP)
+- [Computational Geometry: Algorithms and Applications](https://www.amazon.com/Computational-Geometry-Applications-Mark-Berg/dp/3540779736)
 
 ### Physics
 - [Physics for Game Developers](https://www.amazon.com/dp/1449392512)
+- [Game Physics Cookbook](https://www.amazon.com/Game-Physics-Cookbook-Gabor-Szauer/dp/1787123669)
+
+### Phyton
+- [High Performance Python](https://www.amazon.com/High-Performance-Python-Performant-Programming/dp/1492055026)
+- [Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1492056359)
 
 ### Ray Tracing
 - [Ray Tracing Peter Shirley](https://raytracing.github.io/)
