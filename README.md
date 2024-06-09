@@ -6,6 +6,7 @@ Gathering links about projects, books, articles, etc...
   - [Table Of Contents](#table-of-contents)
   - [Articles](#articles)
   - [Books](#books)
+    - [Game AI](#game-ai)
     - [Animation](#animation)
     - [Blender](#blender)
     - [Computer Graphics](#computer-graphics)
@@ -13,11 +14,11 @@ Gathering links about projects, books, articles, etc...
     - [Game Programming](#game-programming)
     - [Graphics Programming](#graphics-programming)
     - [GPGPU](#gpgpu)
+    - [Image Processing](#image-processing)
     - [Math](#math)
     - [Physics](#physics)
     - [Ray Tracing](#ray-tracing)
     - [Rigging](#rigging)
-    - [Tools](#tools)
     - [VFX](#vfx)
   - [Tutorials](#tutorials)
     - [Direct3D 11](#direct3d-11)
@@ -36,17 +37,21 @@ Gathering links about projects, books, articles, etc...
 
 ## Books
 
+### Game AI
+- [AI for Games](https://www.amazon.com/dp/0367670569)
+- [Game AI Pro Books](https://www.gameaipro.com/)
+
 ### Animation
 - [Hands-On C++ Game Animation Programming](https://www.amazon.com/Game-Animation-Programming-techniques-implementation-dp-1803246529/dp/1803246529/ref=dp_ob_title_bk)
 - [Game Anim: Video Game Animation Explained](https://www.amazon.com/dp/0367707659/)
 - [Foundations of Physically Based Modeling and Animation](https://www.amazon.com/dp/0367658208)
+- [Computer Facial Animation](https://www.amazon.com/dp/0367659379)
 
 ### Blender
 - [Shading, Lighting, and Rendering with Blender EEVEE](https://www.amazon.com/dp/1803230967)
 - [Blender 3D Incredible Machines](https://www.amazon.com/dp/1785282018)
 - [Blender 3D Incredible Models](https://www.amazon.com/dp/1801817812)
 - [Python Scripting in Blender](https://www.amazon.com/dp/1803234229)
-- 
 
 ### Computer Graphics 
 - [Fundamentals of Computer Graphics](https://www.amazon.com/Fundamentals-Computer-Graphics-Steve-Marschner/dp/0367505037/ref=sr_1_4)
@@ -57,6 +62,12 @@ Gathering links about projects, books, articles, etc...
 - [Cloth Simulation for Computer Graphics](https://www.amazon.com/dp/3031014693)
 - [An Introduction to NURBS](https://www.amazon.com/dp/B01K0SD3NW)
 - [Subdivision Methods for Geometric Design](https://www.amazon.com/dp/1558604464)
+- [GPU-BASED REAL-TIME SOLID VOXELIZATION FOR VOLUME GRAPHICS](https://www.amazon.com/dp/3639171330)
+- [Light & Skin Interactions](https://www.amazon.com/dp/0123750938)
+- [Fluid Simulation for Computer Graphics](https://www.amazon.com/dp/1482232839)
+- [Essential Computer Graphics Techniques for Modeling, Animating, and Rendering Biomolecules and Cells](https://www.amazon.com/dp/0367780313)
+- [Advanced High Dynamic Range Imaging](https://www.amazon.com/dp/1032242736)
+- [Real-Time Shadows](https://www.amazon.com/dp/1568814380)
 
 ### Game Engine
 - [Foundations of Game Engine Development](https://foundationsofgameenginedev.com/)
@@ -66,6 +77,7 @@ Gathering links about projects, books, articles, etc...
 ### Game Programming
 - [Game Programming Gems](https://www.satori.org/game-programming-gems/)
 - [Real-Time Cameras](https://www.amazon.com/dp/0123116341)
+- [Game Development Tools](https://www.amazon.com/dp/1138428612)
 
 ### Graphics Programming
 - [3D Graphics Cookbook](https://www.amazon.com/Graphics-Rendering-Cookbook-comprehensive-algorithms/dp/1838986197/ref=sr_1_1)
@@ -83,6 +95,13 @@ Gathering links about projects, books, articles, etc...
 ### GPGPU
 - [GPU Computing Gems Jade Edition](https://www.amazon.com/dp/0123859638)
 - [GPU Computing Gems Emerald Edition](https://www.amazon.com/dp/0123849888)
+
+### Image Processing
+- [A Computational Introduction to Digital Image Processing](https://www.amazon.com/dp/0367783339)
+- [The Image Processing Handbook](https://www.amazon.com/dp/1138747491)
+- [Introduction to Visual Computing](https://www.amazon.com/dp/1482244918)
+- [Image and Video Compression for Multimedia Engineering](https://www.amazon.com/dp/1032240652)
+- [A Beginner's Guide to MultiLevel Image Thresholding](https://www.amazon.com/dp/036750314X)
 
 ### Math
 - [Geometric Tools for Computer Graphics](https://www.amazon.com/dp/1558605940)
@@ -102,14 +121,12 @@ Gathering links about projects, books, articles, etc...
 - [GPU Ray Tracing in Non-Euclidean Spaces](https://www.amazon.com/dp/3031792009)
 - [Ray Tracing from the Ground Up](https://www.amazon.com/dp/1568812728)
 - [Ray Tracing: A Tool for All](https://www.amazon.com/dp/3030174891)
+- [Ray Tracing Gems](https://www.realtimerendering.com/raytracinggems/)
 
 ### Rigging
 - [Digital Creature Rigging](https://www.amazon.com/dp/0240823796)
 - [Digital Creature Rigging: Wings, Tails & Tentacles for Animation & VFX](https://www.amazon.com/dp/1138560707)
 - [Rigging for Games: A Primer for Technical Artists Using Maya and Python](https://www.amazon.com/dp/0415743052)
-
-### Tools
-- [Game Development Tools](https://www.amazon.com/dp/1138428612)
 
 ### VFX
 - [The Complete Guide to Photorealism for Visual Effects, Visualization and Games](https://www.amazon.com/dp/0367199262)
@@ -117,7 +134,7 @@ Gathering links about projects, books, articles, etc...
 - [The VES Handbook of Visual Effects](https://www.amazon.com/dp/1138542202)
 - [Masters of FX](https://www.amazon.com/dp/1781572674)
 - [VFX Made Easy with Houdini](https://www.amazon.com/dp/1803236108)
-- 
+- [Build Stunning Real-time VFX with Unreal Engine 5](https://www.amazon.com/dp/1801072418)
 
 ## Tutorials
 
