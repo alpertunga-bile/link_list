@@ -10,6 +10,7 @@ Gathering links about projects, books, articles, etc...
     - [Animation](#animation)
     - [Blender](#blender)
     - [Computer Graphics](#computer-graphics)
+    - [Compiler \& Interpreter](#compiler--interpreter)
     - [Game Engine](#game-engine)
     - [Game Programming](#game-programming)
     - [Graphics Programming](#graphics-programming)
@@ -68,6 +69,13 @@ Gathering links about projects, books, articles, etc...
 - [Essential Computer Graphics Techniques for Modeling, Animating, and Rendering Biomolecules and Cells](https://www.amazon.com/dp/0367780313)
 - [Advanced High Dynamic Range Imaging](https://www.amazon.com/dp/1032242736)
 - [Real-Time Shadows](https://www.amazon.com/dp/1568814380)
+
+### Compiler & Interpreter
+- [Crafting Interpreters](https://craftinginterpreters.com/)
+- [Optimizing Compilers for Modern Architectures](https://www.amazon.com/dp/1493303546)
+- [Modern Compiler Implementation in C](https://www.amazon.com/dp/0521607655)
+- [Advanced Compiler Design and Implementation](https://www.amazon.com/dp/1558603204)
+- [Engineering a Compiler](https://www.amazon.com/dp/0128154128)
 
 ### Game Engine
 - [Foundations of Game Engine Development](https://foundationsofgameenginedev.com/)
