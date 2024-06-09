@@ -7,6 +7,7 @@ Gathering links about projects, books, articles, etc.
   - [Articles](#articles)
     - [Global Illumination](#global-illumination)
     - [Hair Rendering](#hair-rendering)
+    - [Path Tracing](#path-tracing)
     - [Physical Based Shading](#physical-based-shading)
     - [Shading](#shading)
     - [Subsurface Scattering](#subsurface-scattering)
@@ -56,15 +57,28 @@ Gathering links about projects, books, articles, etc.
 - [Advanced Techniques in Real-time Hair Rendering and Simulation Siggraph 2010](https://dl.acm.org/doi/10.1145/1837101.1837102)
 - [Physically Based Hair Shading in Unreal](https://blog.selfshadow.com/publications/s2016-shading-course/karis/s2016_pbs_epic_hair.pdf)
 - [Let’s Get Physical: The Hairy History of Shading at MPC](https://blog.selfshadow.com/publications/s2020-shading-course/mpc/s2020_pbs_mpc_slides.pdf)
-- [Physically Based Shading at Disney](https://blog.selfshadow.com/publications/s2012-shading-course/burley/s2012_pbs_disney_brdf_notes_v3.pdf)
-- [Physical Production Shaders with OSL](https://blog.selfshadow.com/publications/s2012-shading-course/martinez/s2012_pbs_osl_notes_v3.pdfPhysical)
-- [Physically Based Shader Design in Arnold](https://blog.selfshadow.com/publications/s2014-shading-course/langlands/s2014_pbs_alshaders_notes.pdf)
+
+### Path Tracing
+- [Path Guiding in Production](https://dl.acm.org/doi/10.1145/3305366.3328091)
+- [Vectorized Production Path Tracing](https://dl.acm.org/doi/10.1145/3105762.3105768)
+- [Path tracing in Production Modern Path Tracing](https://dl.acm.org/doi/10.1145/3305366.3328079)
+- [Path tracing in Production Making Movies](https://dl.acm.org/doi/10.1145/3305366.3328085)
+- [The Path Tracing Revolution in the Movie Industry](https://dl.acm.org/doi/10.1145/2776880.2792699)
+- [OptiX: A General Purpose Ray Tracing Engine](https://dl.acm.org/doi/10.1145/1778765.1778803)
+- [Arnold: A Brute-Force Production Path Tracer](https://dl.acm.org/doi/10.1145/3182160)
+- [RenderMan: An Advanced Path-Tracing Architecture for Movie Rendering](https://dl.acm.org/doi/10.1145/3182162)
+- [Path tracing in Production Production Renderers](https://dl.acm.org/doi/10.1145/3084873.3084904)
+- [Path tracing in Production Siggraph 2018](https://dl.acm.org/doi/10.1145/3214834.3214864)
+- [Embree: A Kernel Framework for Efficient CPU Ray Tracing](https://dl.acm.org/doi/10.1145/2601097.2601199)
 
 ### Physical Based Shading
 - [Physically Based Shading in Theory and Practice Siggraph 2020](https://dl.acm.org/doi/10.1145/3388769.3407523)
 - [Beyond a Simple Physically Based Blinn-Phong Model in Real-Time](https://blog.selfshadow.com/publications/s2012-shading-course/gotanda/s2012_pbs_beyond_blinn_notes_v3.pdf)
 - [Physically Based Shading at DreamWorks Animation](https://blog.selfshadow.com/publications/s2017-shading-course/dreamworks/s2017_pbs_dreamworks_notes.pdf)
 - [Reflection Model Design for WALL-E and Up](https://blog.selfshadow.com/publications/s2012-shading-course/smits/s2012_pbs_pixar_model_slides_v2.pdf)
+- [Physically Based Shading at Disney](https://blog.selfshadow.com/publications/s2012-shading-course/burley/s2012_pbs_disney_brdf_notes_v3.pdf)
+- [Physical Production Shaders with OSL](https://blog.selfshadow.com/publications/s2012-shading-course/martinez/s2012_pbs_osl_notes_v3.pdfPhysical)
+- [Physically Based Shader Design in Arnold](https://blog.selfshadow.com/publications/s2014-shading-course/langlands/s2014_pbs_alshaders_notes.pdf)
 
 ### Shading
 - [The Rendering Equation](https://dl.acm.org/doi/10.1145/15922.15902)
