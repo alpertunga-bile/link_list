@@ -11,9 +11,12 @@ Gathering links about projects, books, articles, etc...
     - [Game Engine](#game-engine)
     - [Game Programming](#game-programming)
     - [Graphics Programming](#graphics-programming)
+    - [Math](#math)
+    - [Tools](#tools)
+    - [Physics](#physics)
   - [Tutorials](#tutorials)
-    - [DirectX 11](#directx-11)
-    - [DirectX 12](#directx-12)
+    - [Direct3D 11](#direct3d-11)
+    - [Direct3D 12](#direct3d-12)
     - [OpenGL](#opengl)
     - [Shader](#shader)
     - [Vulkan](#vulkan)
@@ -30,6 +33,8 @@ Gathering links about projects, books, articles, etc...
 
 ### Animation
 - [Hands-On C++ Game Animation Programming](https://www.amazon.com/Game-Animation-Programming-techniques-implementation-dp-1803246529/dp/1803246529/ref=dp_ob_title_bk)
+- [Game Anim: Video Game Animation Explained](https://www.amazon.com/dp/0367707659/)
+- [Foundations of Physically Based Modeling and Animation](https://www.amazon.com/dp/0367658208)
 
 ### Computer Graphics 
 - [Fundamentals of Computer Graphics](https://www.amazon.com/Fundamentals-Computer-Graphics-Steve-Marschner/dp/0367505037/ref=sr_1_4)
@@ -37,10 +42,16 @@ Gathering links about projects, books, articles, etc...
 - [Physical Based Rendering](https://www.pbr-book.org/)
 - [Ray Tracing Peter Shirley](https://raytracing.github.io/)
 - [Real Time Rendering Resources](https://www.realtimerendering.com/index.html)
+- [Ray-tracing Black Holes](https://www.amazon.com/dp/363902902X/)
+- [Realistic Ray Tracing](https://www.amazon.com/dp/1568814615/)
+- [Innovative Ray Tracing Algorithms for Space Thermal Analysis](https://www.amazon.com/dp/3659115800/)
+- [Visibility using Ray Tracing Algorithms and Data Structures: Investigating a few Ray Tracing Algorithms and Data Structures in the Context of Visibility](https://www.amazon.com/dp/3843382557/)
+- [Graphics Gems](https://www.realtimerendering.com/resources/GraphicsGems/)
 
 ### Game Engine
 - [Foundations of Game Engine Development](https://foundationsofgameenginedev.com/)
 - [3D Game Engine Design](https://www.amazon.com/Game-Engine-Design-Second-Interactive/dp/0122290631)
+- [Game Engine Black Book: DOOM](https://www.amazon.com.tr/Game-Engine-Black-Book-DOOM-dp-B0BMSP3GSS/dp/B0BMSP3GSS)
 
 ### Game Programming
 - [Game Programming Gems](https://www.satori.org/game-programming-gems/)
@@ -54,15 +65,28 @@ Gathering links about projects, books, articles, etc...
 - [Computer Graphics Programming in OpenGL With C++](https://www.amazon.com/Computer-Graphics-Programming-OpenGL-C-dp-1501522590/dp/1501522590/ref=dp_ob_title_bk)
 - [ShaderX / GPU Pro / GPU Zen](https://www.realtimerendering.com/resources/shaderx/)
 - [GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors)
+- [Practical Rendering and Computation with Direct3D 11](https://www.amazon.com/dp/0367659255/)
+- [Introduction to 3D Game Programming with DirectX 11](https://www.amazon.com/dp/1936420228/)
+- [Tricks of the 3D Game Programming Gurus](https://www.amazon.com.tr/dp/0672318350)
 
+### Math
+- [Geometric Tools for Computer Graphics](https://www.amazon.com/dp/1558605940)
+- [Geometry for Programmers](https://www.amazon.com/dp/1633439607)
+- [Mathematics for Game Programming and Computer Graphics](https://www.amazon.com.tr/dp/1801077339)
+
+### Tools
+- [Game Development Tools](https://www.amazon.com.tr/dp/1138428612)
+
+### Physics
+- [Physics for Game Developers](https://www.amazon.com.tr/dp/1449392512)
 
 ## Tutorials
 
-### DirectX 11
+### Direct3D 11
 - [Rastertek](https://rastertek.com/tutdx11.html)
 - [3Dgep](https://www.3dgep.com/introduction-to-directx-11/)
 
-### DirectX 12
+### Direct3D 12
 - [3Dgep](https://www.3dgep.com/learning-directx-12-1/)
 - [Braynzar Soft](https://www.braynzarsoft.net/viewtutorial/q16390-04-directx-12-braynzar-soft-tutorials)
 
@@ -72,6 +96,7 @@ Gathering links about projects, books, articles, etc...
 
 ### Shader
 - [3D Game Shaders for Beginners](https://lettier.github.io/3d-game-shaders-for-beginners/)
+- [Ben Cloward](https://www.youtube.com/@BenCloward)
 
 ### Vulkan
 - [Vulkan Guide](https://vkguide.dev/)
@@ -99,7 +124,6 @@ Gathering links about projects, books, articles, etc...
 ### Code
 - [Sebastian Lague](https://www.youtube.com/@SebastianLague)
 - [Simon Dev](https://www.youtube.com/@simondev758)
-- [Ben Cloward](https://www.youtube.com/@BenCloward)
 
 ### Computer Graphics 
 - [Introduction to Computer Graphics](https://www.youtube.com/watch?v=vLSphLtKQ0o&list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5oW_Hh&pp=iAQB)
