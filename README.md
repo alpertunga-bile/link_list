@@ -11,6 +11,7 @@ Gathering links about projects, books, articles, etc...
     - [Blender](#blender)
     - [Computer Graphics](#computer-graphics)
     - [Compiler \& Interpreter](#compiler--interpreter)
+    - [C++](#c)
     - [Game Engine](#game-engine)
     - [Game Programming](#game-programming)
     - [Graphics Programming](#graphics-programming)
@@ -47,6 +48,7 @@ Gathering links about projects, books, articles, etc...
 - [Game Anim: Video Game Animation Explained](https://www.amazon.com/dp/0367707659/)
 - [Foundations of Physically Based Modeling and Animation](https://www.amazon.com/dp/0367658208)
 - [Computer Facial Animation](https://www.amazon.com/dp/0367659379)
+- [Computer Animation: Algorithms and Techniques](https://www.amazon.com/Computer-Animation-Algorithms-Rick-Parent-ebook/dp/B0094DY2XU)
 
 ### Blender
 - [Shading, Lighting, and Rendering with Blender EEVEE](https://www.amazon.com/dp/1803230967)
@@ -69,6 +71,9 @@ Gathering links about projects, books, articles, etc...
 - [Essential Computer Graphics Techniques for Modeling, Animating, and Rendering Biomolecules and Cells](https://www.amazon.com/dp/0367780313)
 - [Advanced High Dynamic Range Imaging](https://www.amazon.com/dp/1032242736)
 - [Real-Time Shadows](https://www.amazon.com/dp/1568814380)
+- [Advanced Global Illumination](https://www.amazon.com/Advanced-Global-Illumination-Philip-Dutre-ebook/dp/B07JN81G8S)
+- [Computer Graphics: Principles and Practice](https://www.amazon.com/Computer-Graphics-Principles-Practice-3rd/dp/0321399528)
+- [High Dynamic Range Imaging](https://www.amazon.com/High-Dynamic-Range-Imaging-Acquisition/dp/012374914X)
 
 ### Compiler & Interpreter
 - [Crafting Interpreters](https://craftinginterpreters.com/)
@@ -76,6 +81,10 @@ Gathering links about projects, books, articles, etc...
 - [Modern Compiler Implementation in C](https://www.amazon.com/dp/0521607655)
 - [Advanced Compiler Design and Implementation](https://www.amazon.com/dp/1558603204)
 - [Engineering a Compiler](https://www.amazon.com/dp/0128154128)
+
+### C++
+- [Professional C++](https://www.amazon.com/Professional-C-Marc-Gregoire-dp-1394193173/dp/1394193173)
+- [C++ High Performance](https://www.amazon.com/dp/1839216549)
 
 ### Game Engine
 - [Foundations of Game Engine Development](https://foundationsofgameenginedev.com/)
@@ -99,6 +108,9 @@ Gathering links about projects, books, articles, etc...
 - [Practical Rendering and Computation with Direct3D 11](https://www.amazon.com/dp/0367659255/)
 - [Introduction to 3D Game Programming with DirectX 11](https://www.amazon.com/dp/1936420228/)
 - [Tricks of the 3D Game Programming Gurus](https://www.amazon.com/dp/0672318350)
+- [Practical Parallel Rendering](https://www.amazon.com/Practical-Parallel-Rendering-Alan-Chalmers-ebook/dp/B00SC80Z3E)
+- [Practical Algorithms for 3D Computer Graphics](https://www.amazon.com/Practical-Algorithms-Computer-Graphics-Second-ebook/dp/B00OD414OK)
+- [Shaders for Game Programmers and Artists](https://www.amazon.com/Shaders-Programmers-Artists-Premier-Development/dp/1592000924)
 
 ### GPGPU
 - [GPU Computing Gems Jade Edition](https://www.amazon.com/dp/0123859638)
@@ -130,6 +142,9 @@ Gathering links about projects, books, articles, etc...
 - [Ray Tracing from the Ground Up](https://www.amazon.com/dp/1568812728)
 - [Ray Tracing: A Tool for All](https://www.amazon.com/dp/3030174891)
 - [Ray Tracing Gems](https://www.realtimerendering.com/raytracinggems/)
+- [Ray Tracing and Beyond: Phase Space Methods in Plasma Wave Theory](https://www.amazon.com/Ray-Tracing-Beyond-Methods-Plasma-ebook/dp/B00I0UNB9Y)
+- [The Ray Tracer Challenge](https://www.amazon.com/Ray-Tracer-Challenge-Test-Driven-Renderer/dp/1680502719)
+- [An Introduction to Ray Tracing](https://www.amazon.com/Introduction-Tracing-Kaufmann-Computer-Graphics/dp/0122861604)
 
 ### Rigging
 - [Digital Creature Rigging](https://www.amazon.com/dp/0240823796)
@@ -143,6 +158,8 @@ Gathering links about projects, books, articles, etc...
 - [Masters of FX](https://www.amazon.com/dp/1781572674)
 - [VFX Made Easy with Houdini](https://www.amazon.com/dp/1803236108)
 - [Build Stunning Real-time VFX with Unreal Engine 5](https://www.amazon.com/dp/1801072418)
+- [Multithreading for Visual Effects](https://www.amazon.com/Multithreading-Visual-Effects-Martin-Watt-ebook/dp/B00OD3XPPM)
+- [Real Time Visual Effects for the Technical Artist](https://www.amazon.com/Real-Visual-Effects-Technical-Artist/dp/0367444488)
 
 ## Tutorials
 
