@@ -20,13 +20,12 @@ Gathering links about projects, books, articles, etc.
     - [Compiler \& Interpreter](#compiler--interpreter)
     - [C++](#c)
     - [Game Engine](#game-engine)
+    - [Game Physics](#game-physics)
     - [Game Programming](#game-programming)
     - [Graphics Programming](#graphics-programming)
     - [GPGPU](#gpgpu)
     - [Image Processing](#image-processing)
     - [Math](#math)
-    - [Physics](#physics)
-    - [Phyton](#phyton)
     - [Ray Tracing](#ray-tracing)
     - [Rigging](#rigging)
     - [VFX](#vfx)
@@ -37,6 +36,7 @@ Gathering links about projects, books, articles, etc.
     - [Shader](#shader)
     - [Vulkan](#vulkan)
   - [Sites](#sites)
+    - [Blogs](#blogs)
     - [Computer Graphics](#computer-graphics-1)
   - [Youtube](#youtube)
     - [Code](#code)
@@ -142,6 +142,7 @@ Gathering links about projects, books, articles, etc.
 - [High Dynamic Range Imaging](https://www.amazon.com/High-Dynamic-Range-Imaging-Acquisition/dp/012374914X)
 - [Real-Time Volume Graphics](https://www.amazon.com/Real-Time-Graphics-Klaus-Engel-ebook/dp/B00SC810ZG)
 - [Point-Based Graphics](https://www.amazon.com/Point-Based-Graphics-Morgan-Kaufmann-Computer-ebook/dp/B005HQMV4K)
+- [Polygon Mesh Processing](https://www.amazon.com/Polygon-Mesh-Processing-Mario-Botsch-ebook/dp/B00OD4G346/)
 
 ### Compiler & Interpreter
 - [Crafting Interpreters](https://craftinginterpreters.com/)
@@ -161,6 +162,10 @@ Gathering links about projects, books, articles, etc.
 - [Game Engine Black Book: DOOM](https://www.amazon.com/Game-Engine-Black-Book-DOOM-dp-B0BMSP3GSS/dp/B0BMSP3GSS)
 - [Game Engine Architecture](https://www.amazon.com/Engine-Architecture-Third-Jason-Gregory/dp/1138035459)
 - [Game Engine Gems](https://www.gameenginegems.net/)
+
+### Game Physics
+- [Physics for Game Developers](https://www.amazon.com/dp/1449392512)
+- [Game Physics Cookbook](https://www.amazon.com/Game-Physics-Cookbook-Gabor-Szauer/dp/1787123669)
 
 ### Game Programming
 - [Game Programming Gems](https://www.satori.org/game-programming-gems/)
@@ -205,14 +210,6 @@ Gathering links about projects, books, articles, etc.
 - [Mathematics for Game Programming and Computer Graphics](https://www.amazon.com/dp/1801077339)
 - [Practical Geometry Algorithms: with C++ Code](https://www.amazon.com/Practical-Geometry-Algorithms-C-Code/dp/B094T8MVJP)
 - [Computational Geometry: Algorithms and Applications](https://www.amazon.com/Computational-Geometry-Applications-Mark-Berg/dp/3540779736)
-
-### Physics
-- [Physics for Game Developers](https://www.amazon.com/dp/1449392512)
-- [Game Physics Cookbook](https://www.amazon.com/Game-Physics-Cookbook-Gabor-Szauer/dp/1787123669)
-
-### Phyton
-- [High Performance Python](https://www.amazon.com/High-Performance-Python-Performant-Programming/dp/1492055026)
-- [Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1492056359)
 
 ### Ray Tracing
 - [Ray Tracing Peter Shirley](https://raytracing.github.io/)
@@ -268,20 +265,33 @@ Gathering links about projects, books, articles, etc.
 
 ## Sites
 
+### Blogs
+- [Inigo Quilez Articles](https://iquilezles.org/articles/)
+- [Froyok Articles](https://www.froyok.fr/articles.html)
+- [Adrian Courreges Graphics Study](https://www.adriancourreges.com/blog/)
+- [Alain](https://alain.xyz/)
+- [Fibers Oh My](https://graphitemaster.github.io/fibers/)
+- [GPU Pro Blog](https://gpupro.blogspot.com/)
+- [Implementing GJK](https://caseymuratori.com/blog_0003)
+- [Behind The Pretty Frames](https://mamoniem.com/category/behind-the-pretty-frames/)
+- [GPU Architecture Sources](https://interplayoflight.wordpress.com/2020/05/09/gpu-architecture-resources/)
+
 ### Computer Graphics 
 - [Advances in Real Time Rendering](https://advances.realtimerendering.com/)
 - [Scratch Pixel](https://www.scratchapixel.com/)
 - [Pixar's Renderman](https://renderman.pixar.com/technical-deep-dive)
-- [Inigo Quilez Articles](https://iquilezles.org/articles/)
 - [GDC Vault](https://gdcvault.com/free)
 - [GPU Open](https://gpuopen.com/)
-- [Froyok Articles](https://www.froyok.fr/articles.html)
 - [Journal of Computer Graphics Techniques](https://jcgt.org/)
-- [Adrian Courreges Graphics Study](https://www.adriancourreges.com/blog/)
 - [Self Shadow](https://blog.selfshadow.com/publications/)
 - [ACM Digital Library](https://dl.acm.org/)
-- [GPU Pro Blog](https://gpupro.blogspot.com/)
-- [Alain](https://alain.xyz/)
+- [Crytek SMAA](https://www.iryoku.com/smaa/)
+- [Riot Games Rendering](https://technology.riotgames.com/tags/rendering)
+- [Casual Effects](https://casual-effects.com/)
+- [Square Enix Technologies](http://www.jp.square-enix.com/tech/publications.html)
+- [Bend Studios Screen Space Shadows](https://www.bendstudio.com/blog/inside-bend-screen-space-shadows/)
+- [Physics Based Animation](https://www.physicsbasedanimation.com/)
+- [Pixar Graphics](https://graphics.pixar.com/library/)
 
 ## Youtube
 
