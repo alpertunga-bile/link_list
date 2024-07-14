@@ -5,16 +5,20 @@ Gathering links about projects, books, articles, etc.
 - [link\_list](#link_list)
   - [Table Of Contents](#table-of-contents)
   - [Articles](#articles)
+    - [Animation](#animation)
+    - [Deep Learning](#deep-learning)
     - [Global Illumination](#global-illumination)
     - [Hair Rendering](#hair-rendering)
     - [Path Tracing](#path-tracing)
     - [Physical Based Shading](#physical-based-shading)
+    - [Physics](#physics)
     - [Shading](#shading)
     - [Subsurface Scattering](#subsurface-scattering)
+    - [Volumetric Shading](#volumetric-shading)
   - [Books](#books)
     - [Game AI](#game-ai)
     - [Algorithms](#algorithms)
-    - [Animation](#animation)
+    - [Animation](#animation-1)
     - [Blender](#blender)
     - [Computer Graphics](#computer-graphics)
     - [Compiler \& Interpreter](#compiler--interpreter)
@@ -45,6 +49,23 @@ Gathering links about projects, books, articles, etc.
 
 ## Articles
 
+### Animation
+- [An Introduction to Physics-based Animation](https://dl.acm.org/doi/10.1145/3305366.3328050)
+
+### Deep Learning
+- [An Introduction to Deep Learning on Meshes](https://dl.acm.org/doi/10.1145/3450508.3464569)
+- [Learning an Intrinsic Garment Space for Interactive Authoring of Garment Animation](https://www.semanticscholar.org/paper/Learning-an-intrinsic-garment-space-for-interactive-Wang-Shao/3de3af24b788d7a88e86c02266dac7746b2c2b77)
+- [DPM-SOLVER++](https://arxiv.org/abs/2211.01095)
+- [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752)
+- [Objaverse-XL: A Universe of 10M+ 3D Objects](https://arxiv.org/abs/2307.05663)
+- [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)
+- [DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://dreambooth.github.io/)
+- [Geometric Deep Learning](https://dl.acm.org/doi/10.1145/2988458.2988485)
+- [Machine Learning and Rendering](https://dl.acm.org/doi/10.1145/3214834.3214841)
+- [Physics-Based Differentiable Rendering: From Theory to Implementation](https://dl.acm.org/doi/10.1145/3388769.3407454)
+- [Game AI techniques from algorithmic approach to machine learning](https://www.researchgate.net/publication/329284210_Game_AI_techniques_from_algorithmic_approach_to_machine_learning)
+- [Practical Machine Learning for Rendering](https://history.siggraph.org/learning/practical-machine-learning-for-rendering-from-research-to-deployment-by-marshall/)
+
 ### Global Illumination
 - [Implicit Visibility and Antiradiance for Interactive Global Illumination](https://dl.acm.org/doi/10.1145/1275808.1276453)
 - [Instant Global Illumination on the GPU using OptiX](https://www.academia.edu/2805505)
@@ -53,7 +74,7 @@ Gathering links about projects, books, articles, etc.
 - [Real-Time Diffuse Global Illumination based on Voxelization](https://www.researchgate.net/publication/258845112_Real-Time_Diffuse_Global_Illumination_based_on_Voxelization)
 
 ### Hair Rendering
-- [THE IMPLEMENTATION OF A HAIR SCATTERING MODEL](https://www.pbrt.org/hair.pdf)
+- [The Implementation Of A Hair Scattering Model](https://www.pbrt.org/hair.pdf)
 - [Advanced Techniques in Real-time Hair Rendering and Simulation Siggraph 2010](https://dl.acm.org/doi/10.1145/1837101.1837102)
 - [Physically Based Hair Shading in Unreal](https://blog.selfshadow.com/publications/s2016-shading-course/karis/s2016_pbs_epic_hair.pdf)
 - [Let’s Get Physical: The Hairy History of Shading at MPC](https://blog.selfshadow.com/publications/s2020-shading-course/mpc/s2020_pbs_mpc_slides.pdf)
@@ -79,14 +100,23 @@ Gathering links about projects, books, articles, etc.
 - [Physically Based Shading at Disney](https://blog.selfshadow.com/publications/s2012-shading-course/burley/s2012_pbs_disney_brdf_notes_v3.pdf)
 - [Physical Production Shaders with OSL](https://blog.selfshadow.com/publications/s2012-shading-course/martinez/s2012_pbs_osl_notes_v3.pdfPhysical.pdf)
 - [Physically Based Shader Design in Arnold](https://blog.selfshadow.com/publications/s2014-shading-course/langlands/s2014_pbs_alshaders_notes.pdf)
+- [Real-Time Rendering of Rough Refraction](https://inria.hal.science/hal-00652076/file/final.pdf)
+
+### Physics
+- [Dynamic Deformables: Implementation and Production Practicalities](https://dl.acm.org/doi/10.1145/3388769.3407490)
 
 ### Shading
 - [The Rendering Equation](https://dl.acm.org/doi/10.1145/15922.15902)
 - [Rendering Equation Revisited: how to avoid Explicit Visibility Computations](https://dl.acm.org/doi/10.5555/314500.314898)
-- [A TWO-PASS SOLUTION TO THE RENDERING EQUATION: A SYNTHESIS OF RAY TRACING AND RADIOSITY METHODS](https://dl.acm.org/doi/10.1145/37401.37438)
+- [A Two-Pass Solution To The Rendering Equation: A Synthesis Of Ray Tracing And Radiosity Methods](https://dl.acm.org/doi/10.1145/37401.37438)
 - [Background: Physics and Math of Shading](https://blog.selfshadow.com/publications/s2012-shading-course/hoffman/s2012_pbs_physics_math_notes.pdf)
 - [Samurai Shading in Ghost of Tsushima](https://blog.selfshadow.com/publications/s2020-shading-course/patry/s2020_pbs_patry_slides.pdf)
 - [Pixar’s Foundation for Materials: PxrSurface and PxrMarschnerHair](https://blog.selfshadow.com/publications/s2017-shading-course/pixar/s2017_pbs_pixar_notes.pdf)
+- [Real-time many-light management and shadows with clustered shading](https://dl.acm.org/doi/10.1145/2776880.2792712)
+- [Radiance Cache Splatting: A GPU-Friendly Global Illumination Algorithm](https://dl.acm.org/doi/10.5555/2383654.2383661)
+- [Real-Time Diffuse Global Illumination based on Voxelization](https://ieeexplore.ieee.org/document/6670656)
+- [Voxel-based global illumination](https://dl.acm.org/doi/10.1145/1944745.1944763)
+- [FXAA](https://developer.download.nvidia.com/assets/gamedev/files/sdk/11/FXAA_WhitePaper.pdf)
 
 ### Subsurface Scattering 
 - [Pre-Integrated Deferred Subsurface Scattering](https://dl.acm.org/doi/10.1145/2614217.2614248)
@@ -96,6 +126,12 @@ Gathering links about projects, books, articles, etc.
 - [Extending the Disney BRDF to a BSDF with Integrated Subsurface Scattering](https://blog.selfshadow.com/publications/s2015-shading-course/burley/s2015_pbs_disney_bsdf_notes.pdf)
 - [Volumetric Skin and Fabric Shading at Framestore](https://blog.selfshadow.com/publications/s2017-shading-course/walster/s2017_pbs_volumetric_notes.pdf)
 
+### Volumetric Shading
+
+- [Fast, Flexible, Physically-Based Volumetric Light Scattering](https://d29g4g2dyqv443.cloudfront.net/sites/default/files/akamai/gameworks%2Fdownloads%2Fpapers%2FNVVL%2FFast_Flexible_Physically-Based_Volumetric_Light_Scattering.pdf)
+- [Light Shafts](https://www.pixelmaven.com/jason/articles/ATI/Mitchell_LightShafts.pdf)
+- [Voxel-Space Ambient Occlusion](https://dl.acm.org/doi/10.1145/1730804.1730989)
+- [Production Volume Rendering](https://dl.acm.org/doi/10.1145/3084873.3084907)
 
 ## Books
 
