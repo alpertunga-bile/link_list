@@ -359,6 +359,7 @@ Gathering links about projects, books, articles, etc.
 - [Bend Studios Screen Space Shadows](https://www.bendstudio.com/blog/inside-bend-screen-space-shadows/)
 - [Physics Based Animation](https://www.physicsbasedanimation.com/)
 - [Pixar Graphics](https://graphics.pixar.com/library/)
+- [Krzysztof Narkowicz](http://knarkowicz.wordpress.com/)
 
 ## Youtube
 
