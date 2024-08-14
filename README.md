@@ -361,6 +361,9 @@ Gathering links about projects, books, articles, etc.
 - [Pixar Graphics](https://graphics.pixar.com/library/)
 - [Krzysztof Narkowicz](http://knarkowicz.wordpress.com/)
 - [Daniel Wright](https://www.epicshaders.com/)
+- [Jendrik Illner](https://www.jendrikillner.com)
+- [Graphics Programming Weekly](https://www.jendrikillner.com/article_database/)
+- [A Graphics Guy's Note](https://agraphicsguynotes.com/)
 
 ## Youtube
 
