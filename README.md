@@ -360,6 +360,7 @@ Gathering links about projects, books, articles, etc.
 - [Physics Based Animation](https://www.physicsbasedanimation.com/)
 - [Pixar Graphics](https://graphics.pixar.com/library/)
 - [Krzysztof Narkowicz](http://knarkowicz.wordpress.com/)
+- [Daniel Wright](https://www.epicshaders.com/)
 
 ## Youtube
 
