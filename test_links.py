@@ -26,6 +26,6 @@ if __name__ == "__main__":
         if not response.ok:
             failed_link_file.write(link + "\n")
 
-        sleep(6.0)
+        sleep(3.0)
 
     failed_link_file.close()
