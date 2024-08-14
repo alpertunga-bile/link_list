@@ -4,7 +4,7 @@ Gathering links about projects, books, articles, etc.
 
 ## Table Of Contents
 
-- [link_list](#link_list)
+- [link\_list](#link_list)
   - [Table Of Contents](#table-of-contents)
   - [Articles](#articles)
     - [Animation](#animation)
@@ -45,7 +45,7 @@ Gathering links about projects, books, articles, etc.
     - [Blogs](#blogs)
   - [Youtube](#youtube)
     - [Code](#code)
-    - [Computer Graphics](#computer-graphics-2)
+    - [Computer Graphics](#computer-graphics-1)
     - [Vulkan](#vulkan-1)
 
 ## Articles
@@ -364,6 +364,7 @@ Gathering links about projects, books, articles, etc.
 - [Jendrik Illner](https://www.jendrikillner.com)
 - [Graphics Programming Weekly](https://www.jendrikillner.com/article_database/)
 - [A Graphics Guy's Note](https://agraphicsguynotes.com/)
+- [A Random Walk Through Geek-Space](https://www.sebastiansylvan.com/)
 
 ## Youtube
 

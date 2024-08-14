@@ -23,9 +23,11 @@ if __name__ == "__main__":
             failed_link_file.write(link + "\n")
             continue
 
-        if not response.ok:
-            failed_link_file.write(link + "\n")
+        if response.status_code < 400:
+            continue
 
-        sleep(3.0)
+        failed_link_file.write(link + "\n")
+
+        sleep(1.0)
 
     failed_link_file.close()
